@@ -1,0 +1,22 @@
+# SO / editores
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# draw.io: respaldos temporales
+*.drawio.bkp
+*.drawio.dtmp
+.$*.drawio.bkp
+.$*.drawio.dtmp
+
+# Claude Code: configuración local del usuario
+.claude/settings.local.json
+
+# Credenciales
+.env
+*.pem
+
+# Office: archivos de bloqueo
+~$*

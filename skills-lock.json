@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "skills": {
+    "amazon-bedrock": {
+      "source": "aws/agent-toolkit-for-aws",
+      "sourceType": "github",
+      "skillPath": "skills/core-skills/amazon-bedrock/SKILL.md",
+      "computedHash": "2ba33399c14fa9eced172fe33d30a8f1247042a773611e4db6c2c4714f3703a3"
+    },
+    "aws-architecture-diagram": {
+      "source": "vidanov/aws-architecture-diagram-skill",
+      "sourceType": "github",
+      "skillPath": "claude/SKILL.md",
+      "computedHash": "e8782aee0293fecee955e5d71a6aaa9033eb54e6736eb978d1bb4afc8d4ee763"
+    },
+    "aws-well-architected-review": {
+      "source": "aws/agent-toolkit-for-aws",
+      "sourceType": "github",
+      "skillPath": "skills/core-skills/aws-well-architected-review/SKILL.md",
+      "computedHash": "e01c1c8bbc54502f8d8f373a427de159b195227e8d2a407d6752742054c7bccd"
+    }
+  }
+}
